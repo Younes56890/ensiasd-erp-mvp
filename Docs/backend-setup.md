@@ -20,6 +20,6 @@ You should see `docker-frontend-1` with port `8080:8080`.
 
 ## First login
 
-- Open `http://localhost:8080` in your browser.
+- Open `http://localhost:8080` .
 - User: `Administrator`
 - Password: `admin`
